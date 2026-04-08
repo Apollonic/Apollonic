@@ -3,7 +3,7 @@
 
 🇧🇷 Brazil
 
-Programming student focused on **back-end** development. Studying **Java** and **Python**. I need to continuously improve my programming skills. I seek to evolve through studies and practical projects, aiming to become a complete back-end developer.
+Programming student focused on **back-end** development. Studying **Java**, **Python** and **PHP**. I need to continuously improve my programming skills. I seek to evolve through studies and practical projects, aiming to become a complete back-end developer.
 
 ---
 
